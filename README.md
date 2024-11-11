@@ -2,10 +2,7 @@
 
 Sou um jovem estudante de Sistemas de Informação, apaixonado por inovação e empreendedorismo. Estou sempre buscando aprender e crescer na minha carreira.
 
-## 🚀 Habilidades
 
-- **Python**: Tenho experiência com Python e estou sempre procurando aprimorar minhas habilidades nesta linguagem.
-- **Java**: Também tenho conhecimento em Java, uma linguagem que me permite criar soluções robustas e eficientes.
 
 ## 💡 Interesses
 
